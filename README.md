@@ -1,1 +1,3 @@
-# DocteChatbot
+Add voice greeting playback for Windows using SoundPlayer(Introduced a platform-specific method PlayGreeting that plays a .wav file on Windows using the System.Media.SoundPlayer class. Handles file path and missing file gracefully)
+Implement basic cybersecurity Q&A system with keyword detection(Added BasicResponseSystem method to handle user questions on cybersecurity topics like phishing, malware, passwords, and more using simple keyword matching.)
+Enhance console interface with ASCII art, borders, and styled prompts(Improved user experience by adding colored ASCII art, borders, section headers, and styled text input/output for a more engaging and visually appealing chatbot session.)
